@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=FFF&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=FFF)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### 🔭 I’m currently working on my personal projects. 
