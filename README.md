@@ -1,4 +1,4 @@
-### Hi there 👋, I'm OneOfCosmosMostWanted.
+### Hi there 👋, I'm OneOfCosmosMostWanted, an Machine Learning enthusiast.
 ---
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
