@@ -1,5 +1,22 @@
-### Hi there 👋, I'm OneOfCosmosMostWanted, an Machine Learning enthusiast.
----
+## 👋 Hello! I'm [Your Name]
+
+I’m an aspiring **pioneer** in the fields of **Machine Learning** and **Deep Learning**, pushing boundaries and exploring innovative solutions. My current work revolves around developing cutting-edge models in computer vision, natural language processing, and reinforcement learning. I’m passionate about transforming ideas into impactful, real-world applications powered by AI.
+
+### 🔭 Current Projects:
+- **YOLOv3-based Polyp Detection**: Real-time detection using pruning and clustering techniques.
+- **CycleGAN for Face Sketches**: Converting face sketches to portrait images with custom-modified UNets.
+- **Autonomous Driving Simulation**: Feedforward neural networks with genetic algorithms for automatic driving in a web-based interface.
+
+### ⚡ Technologies and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=FFF&style=flat-square)
@@ -8,19 +25,5 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=FFF)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 🔭 I’m currently working on my personal projects. 
 
-<!--
-**OneOfCosmosMostWanted/OneOfCosmosMostWanted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
