@@ -1,11 +1,5 @@
 ## 👋 Hello! I'm OneOfCosmosMostWanted
 
-I’m an aspiring **pioneer** in the fields of **Machine Learning** and **Deep Learning**, pushing boundaries and exploring innovative solutions. My current work revolves around developing cutting-edge models in computer vision, natural language processing, and reinforcement learning. I’m passionate about transforming ideas into impactful, real-world applications powered by AI.
-
-### 🔭 Current Projects:
-- **YOLOv3-based Polyp Detection**: Real-time detection using pruning and clustering techniques.
-- **CycleGAN for Face Sketches**: Converting face sketches to portrait images with custom-modified UNets.
-- **Autonomous Driving Simulation**: Feedforward neural networks with genetic algorithms for automatic driving in a web-based interface.
 
 ### ⚡ Technologies and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
